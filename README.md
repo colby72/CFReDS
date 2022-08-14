@@ -16,4 +16,4 @@ CFReDS are quite useful for digital forensics training. Uploaded are different r
 
 ## Note
 
-V2 for the Russian Tea Room case is bugged due to the poor management of the cyrillic alphabet in LaTeX
+V2 for the Russian Tea Room case is bugged due to the poor support of the cyrillic alphabet in LaTeX
