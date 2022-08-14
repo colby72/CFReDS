@@ -124,8 +124,8 @@
     {\end{minipage}\end{lrbox}\fbox{\usebox{\problembox}} \end{center} }
 
 % Set captions to a more separated style for clearness
-\captionnamefont{\sffamily\bfseries\footnotesize}
-\captiontitlefont{\sffamily\footnotesize}
+%\captionnamefont{\sffamily\bfseries\footnotesize}
+%\captiontitlefont{\sffamily\footnotesize}
 \setlength{\intextsep}{16pt}
 \setlength{\belowcaptionskip}{1pt}
 

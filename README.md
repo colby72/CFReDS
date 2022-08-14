@@ -13,3 +13,7 @@ CFReDS are quite useful for digital forensics training. Uploaded are different r
 - Russian Tea Room: Done :)
 - Hacking Case: Suspended !!
 - Rhino Hunt: Pending ...
+
+## Note
+
+V2 for the Russian Tea Room case is bugged due to the poor management of the cyrillic alphabet in LaTeX

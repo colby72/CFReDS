@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.8.18)  14 AUG 2022 16:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.8.14)  14 AUG 2022 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -76,26 +76,8 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@dimlist=\toks17
 )
 \problembox=\box48
-
-! Undefined control sequence.
-l.127 \captionnamefont
-                      {\sffamily\bfseries\footnotesize}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.128 \captiontitlefont
-                       {\sffamily\footnotesize}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
@@ -176,7 +158,7 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks21
 )
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 62
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 64
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
@@ -190,20 +172,20 @@ File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 (./russian_tea_room.aux)
 \openout1 = `russian_tea_room.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -264,88 +246,88 @@ e
 ))
 \c@lstlisting=\count273
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 6
-4.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-64.
+66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-64.
+66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-64.
+66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-64.
+66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 <fig1.png, id=1, 1133.23375pt x 675.52374pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 88.
+Package pdftex.def Info: fig1.png  used on input line 90.
 (pdftex.def)             Requested size: 409.71692pt x 244.22943pt.
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 9
-9.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
+01.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fig1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--107
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--112
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
 
  []
 
 <fig2.png, id=12, 1223.57124pt x 709.65125pt>
 File: fig2.png Graphic file (type png)
 <use fig2.png>
-Package pdftex.def Info: fig2.png  used on input line 117.
+Package pdftex.def Info: fig2.png  used on input line 119.
 (pdftex.def)             Requested size: 409.71692pt x 237.62906pt.
 [2 <./fig2.png>]
 <fig3.png, id=17, 1259.70625pt x 705.63625pt>
 File: fig3.png Graphic file (type png)
 <use fig3.png>
-Package pdftex.def Info: fig3.png  used on input line 144.
+Package pdftex.def Info: fig3.png  used on input line 146.
 (pdftex.def)             Requested size: 409.71692pt x 229.50133pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--154
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
 
  []
 
 <fig4.png, id=18, 1085.05376pt x 693.59125pt>
 File: fig4.png Graphic file (type png)
 <use fig4.png>
-Package pdftex.def Info: fig4.png  used on input line 156.
+Package pdftex.def Info: fig4.png  used on input line 158.
 (pdftex.def)             Requested size: 409.71692pt x 261.89525pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--164
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
 
  []
 
@@ -353,133 +335,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--164
 <fig5.png, id=24, 1075.01625pt x 707.64375pt>
 File: fig5.png Graphic file (type png)
 <use fig5.png>
-Package pdftex.def Info: fig5.png  used on input line 172.
+Package pdftex.def Info: fig5.png  used on input line 174.
 (pdftex.def)             Requested size: 364.19667pt x 239.73187pt.
 <fig6.png, id=25, 980.66376pt x 719.68875pt>
 File: fig6.png Graphic file (type png)
 <use fig6.png>
-Package pdftex.def Info: fig6.png  used on input line 183.
+Package pdftex.def Info: fig6.png  used on input line 185.
 (pdftex.def)             Requested size: 364.19667pt x 267.26901pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--191
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
 
  []
 
-[4 <./fig5.png> <./fig6.png>]
-
-! Package inputenc Error: Unicode character З (U+0417)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.204 Appetizers - З
-                     АКУСКИ
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! Package inputenc Error: Unicode character А (U+0410)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.204 Appetizers - ЗА
-                       КУСКИ
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! Package inputenc Error: Unicode character К (U+041A)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.204 Appetizers - ЗАК
-                         УСКИ
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! Package inputenc Error: Unicode character У (U+0423)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.204 Appetizers - ЗАКУ
-                           СКИ
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! Package inputenc Error: Unicode character С (U+0421)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.204 Appetizers - ЗАКУС
-                             КИ
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! Package inputenc Error: Unicode character К (U+041A)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.204 Appetizers - ЗАКУСК
-                               И
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! Package inputenc Error: Unicode character И (U+0418)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.204 Appetizers - ЗАКУСКИ
-                                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[4 <./fig5.png> <./fig6.png>] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
  []
 
-No file russian_tea_room.bbl.
-[5] (./russian_tea_room.aux) ) 
+[7] (./russian_tea_room.aux) ) 
 Here is how much of TeX's memory you used:
- 4166 strings out of 481252
- 58456 string characters out of 5915888
- 342671 words of memory out of 5000000
- 21048 multiletter control sequences out of 15000+600000
- 427472 words of font info for 69 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 83i,10n,88p,450b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 4153 strings out of 480726
+ 58339 string characters out of 5907434
+ 344575 words of memory out of 5000000
+ 21050 multiletter control sequences out of 15000+600000
+ 427868 words of font info for 67 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 83i,10n,88p,450b,290s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ba
 se/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on russian_tea_room.pdf (5 pages, 315479 bytes).
+usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on russian_tea_room.pdf (7 pages, 330685 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
